@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 프로젝트 링크
+## 🔗 링크
 - **Live Demo**: https://ppck75.github.io/khu_cafe_recommendation/
 
 ---
