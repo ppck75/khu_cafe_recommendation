@@ -1,37 +1,37 @@
 # khu_cafe_recommendation
 
-# ☕ 경희대학교 주변 카공(카페에서 공부)하기 좋은 카페 추천 웹페이지
+# ☕ A Webpage Recommending Study-Friendly Cafés Near Kyung Hee University
 
-> **경희대학교 학생들을 위한 위치별 맞춤형 카공 성지 큐레이션 웹** > 정문, 후문, 회기역 등 주요 거점별로 공부하기 좋은 카페 6곳을 엄선하여 상세 정보와 위치를 제공합니다.
+> **A location-based curated guide to the best study cafés for Kyung Hee University students** > It features six carefully selected cafés ideal for studying near key locations such as the Main Gate, Back Gate, and Hoegi Station, along with details about each café and its location.
 
 ---
 
-## 🔗 링크
+## 🔗 Links
 - **Live Demo**: https://ppck75.github.io/khu_cafe_recommendation/
 
 ---
 
-## ✨ 주요 기능 및 특징
+## ✨ Key Features
 
-### 1. 위치 기반 카테고리 분류
-- **정문 / 후문 / 회기역** 세 가지 구역으로 나누어 사용자의 현재 위치에서 가장 가까운 카페를 빠르게 찾을 수 있도록 구성했습니다.
-- 상단 네비게이션 바의 **Anchor Link** 기능을 통해 클릭 시 해당 섹션으로 부드럽게 이동합니다.
+### 1. Location-Based Categories
+- Cafés are grouped into three areas—**Main Gate / Back Gate / Hoegi Station**—so users can quickly find the café closest to their current location.
+- The **Anchor Link** feature in the top navigation bar enables smooth scrolling to the corresponding section when clicked.
 
-### 2. 사용자 중심의 상세 정보 제공
-- 각 카페의 특징(콘센트 유무, 영업시간, 소음 정도, 추천 메뉴)을 리스트 형태로 직관적으로 정리했습니다.
-- **네이버 지도 연동**: 버튼 클릭 시 해당 카페의 네이버 지도 검색 결과로 바로 연결되어 실제 경로 확인이 용이합니다.
+### 2. User-Focused Details
+- Each café's key details (power outlet availability, business hours, noise level, and recommended menu items) are presented in an easy-to-read list.
+- **Naver Map Integration**: Clicking the button takes users directly to the café's Naver Map search results, making it easy to check directions.
 
-### 3. 부드러운 UI/UX 및 애니메이션
-- `CSS Keyframes`를 활용한 **Fade-Up 애니메이션**을 적용하여 페이지 로드 시 섹션이 순차적으로 나타나는 고급스러운 연출을 구현했습니다.
-- `Sticky Navigation`: 스크롤을 내려도 메뉴바가 상단에 고정되어 이동이 편리합니다.
+### 3. Smooth UI/UX and Animations
+- A **Fade-Up animation** built with `CSS Keyframes` makes each section appear sequentially when the page loads, creating a polished visual effect.
+- `Sticky Navigation`: The menu bar remains fixed at the top while scrolling for convenient navigation.
 
-### 4. 반응형 웹 디자인 (Responsive Design)
-- 데스크톱뿐만 아니라 모바일 기기에서도 최적화된 레이아웃을 제공합니다.
-- 미디어 쿼리(`@media`)를 통해 모바일 환경에서는 이미지가 꽉 차게 보이도록 조정하여 가독성을 높였습니다.
+### 4. Responsive Web Design
+- The layout is optimized for both desktop and mobile devices.
+- Media queries (`@media`) make images fill the available width on mobile devices, improving readability.
 
 ---
 
-## 🛠 사용 기술 (Tech Stack)
+## 🛠 Technologies Used (Tech Stack)
 
 - **Language**: HTML5, CSS3
 - **Layout**: CSS Flexbox, Responsive Design
