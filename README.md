@@ -1,8 +1,8 @@
 # khu_cafe_recommendation
 
-# ☕ A Webpage Recommending Study-Friendly Cafés Near Kyung Hee University
+# ☕ A Webpage Recommending Study-Friendly Cafes Near Kyung Hee University
 
-> **A location-based curated guide to the best study cafés for Kyung Hee University students** > It features six carefully selected cafés ideal for studying near key locations such as the Main Gate, Back Gate, and Hoegi Station, along with details about each café and its location.
+> **A location-based curated guide to the best study cafes for Kyung Hee University students** > It features six carefully selected cafes ideal for studying near key locations such as the Main Gate, Back Gate, and Hoegi Station, along with details about each cafe and its location.
 
 ---
 
@@ -14,11 +14,11 @@
 ## ✨ Key Features
 
 ### 1. Location-Based Categories
-- Cafés are grouped into three areas—**Main Gate / Back Gate / Hoegi Station**—so users can quickly find the café closest to their current location.
+- Cafes are grouped into three areas—**Main Gate / Back Gate / Hoegi Station**—so users can quickly find the cafe closest to their current location.
 - The **Anchor Link** feature in the top navigation bar enables smooth scrolling to the corresponding section when clicked.
 
 ### 2. User-Focused Details
-- Each café's key details (power outlet availability, business hours, noise level, and recommended menu items) are presented in an easy-to-read list.
+- Each cafe's key details (power outlet availability, business hours, noise level, and recommended menu items) are presented in an easy-to-read list.
 - **Naver Map Integration**: Clicking the button takes users directly to the café's Naver Map search results, making it easy to check directions.
 
 ### 3. Smooth UI/UX and Animations
