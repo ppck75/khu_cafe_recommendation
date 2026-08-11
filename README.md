@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠 Technologies Used (Tech Stack)
+## 🛠 Tech Stack
 
 - **Language**: HTML5, CSS3
 - **Layout**: CSS Flexbox, Responsive Design
